@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steysicenteno&" alt="steysicenteno" /></p>
 </td>
 
-<td width="34%">
+<td width="33%">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steysicenteno&show_icons=true&locale=en" alt="steysicenteno" /></p>
 </td>
 
