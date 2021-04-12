@@ -32,14 +32,16 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steysicenteno&show_icons=true&locale=en&layout=compact" alt="steysicenteno" /></p>
+<td width="33%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steysicenteno&" alt="steysicenteno" /></p>
 </td>
+
 <td width="34%">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steysicenteno&show_icons=true&locale=en" alt="steysicenteno" /></p>
 </td>
-<td valign="top" width="33%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steysicenteno&" alt="steysicenteno" /></p>
+
+<td width="33%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steysicenteno&show_icons=true&locale=en&layout=compact" alt="steysicenteno" /></p>
 </td>
 </tr>
 </table>
