@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steysi Centeno</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steysicenteno&label=Profile%20views&color=0e75b6&style=flat" alt="steysicenteno" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steysicenteno" alt="steysicenteno" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/centenosteysi" target="blank"><img src="https://img.shields.io/twitter/follow/centenosteysi?logo=twitter&style=for-the-badge" alt="centenosteysi" /></a> </p>
-
 - 🔭 I’m currently working on **DECODE**
 
 - 🌱 I’m currently learning **React**
@@ -25,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/centenosteysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="centenosteysi" height="30" width="40" /></a> 
+<a href="https://dev.to/centenosteysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="centenosteysi" height="30" width="40" style="color:#666666" /></a> 
 <a href="https://twitter.com/centenosteysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="centenosteysi" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/steysi-centeno-moo-62833398" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="steysi-centeno-moo-62833398" height="30" width="40" /></a> 
 <a href="https://dribbble.com/hadassa30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hadassa30" height="30" width="40" /></a> 
