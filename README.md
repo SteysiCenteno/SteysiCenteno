@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/centenosteysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="centenosteysi" height="30" width="40" style="color:#666666" /></a> 
+<a href="https://dev.to/centenosteysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="centenosteysi" height="30" width="40" /></a> 
 <a href="https://twitter.com/centenosteysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="centenosteysi" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/steysi-centeno-moo-62833398" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="steysi-centeno-moo-62833398" height="30" width="40" /></a> 
 <a href="https://dribbble.com/hadassa30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hadassa30" height="30" width="40" /></a> 
