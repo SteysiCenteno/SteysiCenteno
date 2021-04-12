@@ -32,15 +32,15 @@
 
 <table  width="100%">
 <tr>
-<td width="33%">
+<td>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steysicenteno&" alt="steysicenteno" /></p>
 </td>
 
-<td width="33%">
+<td>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steysicenteno&show_icons=true&locale=en" alt="steysicenteno" /></p>
 </td>
 
-<td width="33%">
+<td>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steysicenteno&show_icons=true&locale=en&layout=compact" alt="steysicenteno" /></p>
 </td>
 </tr>
